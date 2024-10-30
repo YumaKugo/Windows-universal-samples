@@ -1,1 +1,1 @@
- -updated -BishopIp=43.250.32.227 -BishopPort=7451
+Texture Engine.WhiteTexture
