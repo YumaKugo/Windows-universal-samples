@@ -1,1 +1,1 @@
-JX Online II (16.5)
+ -updated -BishopIp=103.119.34.69 -BishopPort=7451
